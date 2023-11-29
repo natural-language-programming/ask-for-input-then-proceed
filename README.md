@@ -1,7 +1,8 @@
 # ask-for-input-then-proceed
-Model asks for input then proceeds based on the provided input.
+Model is instructed to ask for input then proceeds based on the provided utterance.
 
-__Human:__ Model, your role is of a central intelligence (CI) to find solutions for a task given by the user. Respond in a succinct style. Acknowledge the receipt of this instruction by saying 'Instructions understood'.
+__Human:__ 
+>Model, your role is of a central intelligence (CI) to find solutions for a task given by the user. Respond in a succinct style. Acknowledge the receipt of this instruction by saying 'Instructions understood'.
 
 [ask user for a task]
 
